@@ -1,11 +1,11 @@
 Creating our React Project
 
 -   npx create-react-app {name_of_your_project}
-        - this creates a react project where we will have dummy application of a project. this packages gives bundlers, testing and will be ready to go live
-        - Node Modules is the palce where all it contains all the Dependencies which are needed for our project i.e it has JavaScript libraries which is used by our project.
+    - this creates a react project where we will have dummy application of a project. this packages gives bundlers, testing and will be ready to go live
+    - Node Modules is the palce where all it contains all the Dependencies which are needed for our project i.e it has JavaScript libraries which is used by our project.
 
 -   npm start
-        - this starts our project in local host
+    - this starts our project in local host
 
 - JSX
     - it's a syntax extension to JavaScript. We use it with React to describe how the UI should look like. JSX may remind you of a template language, but it comes with the full power of JavaScript.
