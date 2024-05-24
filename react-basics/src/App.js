@@ -1,23 +1,16 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Form from './components/Form';
 
 function App() {
+  const fruitsArrray = ["apple", "oranges", "grapes"];
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h2>i am written in jsx</h2>
+      <p>The total number of items in fruitsArrray are {fruitsArrray.length} </p>
+      <div>we will build an inline search form</div>
+      < Form />
     </div>
   );
 }
