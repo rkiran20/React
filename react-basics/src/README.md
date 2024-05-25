@@ -33,5 +33,3 @@ Creating our React Project
     - React is a component based framework
     - Component is a bundle of styles and logic that contorls everything about a specific part of interface
     - Components plays a huge role in react.
-
-- Syntax of Components
