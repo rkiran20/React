@@ -1,0 +1,33 @@
+.form {
+    width: 300px;
+    height: 60px;
+    background-color: rgb(255, 187, 0);
+    padding: 40px 30px;
+    position: relative;
+}
+
+#search-input{
+    height: 30px;
+    width: 150px;
+    padding: 4px 10px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-color: azure;
+    box-shadow: 2px 2px 10px rgba(255, 166, 0, 0.429),;
+    background-color: rgb(166, 234, 234);
+    color: brown;
+}
+
+
+.submit-b{
+    position: absolute;
+    left: 254px;
+    top: 42px;
+    border-top-right-radius: 5px;
+    border-color: azure;
+}
+
+img{
+    height: 30px;
+    border: black;
+}

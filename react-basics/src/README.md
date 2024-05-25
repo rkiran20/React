@@ -28,3 +28,10 @@ Creating our React Project
 - if we want to style in JSX then this style takes an object(in html this will be inline style).
     - style={{fontSize:2rem}}. // we write as objects because it's for styling we use {} for js expressions.
     - All the css properties are written in "camelCase" only.
+
+- Components
+    - React is a component based framework
+    - Component is a bundle of styles and logic that contorls everything about a specific part of interface
+    - Components plays a huge role in react.
+
+- Syntax of Components

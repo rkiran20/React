@@ -11,6 +11,7 @@ function App() {
       <p>The total number of items in fruitsArrray are {fruitsArrray.length} </p>
       <div>we will build an inline search form</div>
       < Form />
+      
     </div>
   );
 }
