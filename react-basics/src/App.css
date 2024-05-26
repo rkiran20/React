@@ -31,3 +31,44 @@ img{
     height: 30px;
     border: black;
 }
+
+.cardDiv{
+    width: 600px;
+   /* height: 800px;*/
+    height: fit-content;
+    background-color: rgb(255, 111, 0);
+    padding: 10px;
+    margin: 10px 0;
+    
+}
+
+.contactCardDiv{
+    margin: 10px;
+    background-color: white;
+    text-align: center;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 2cqb;
+}
+
+.pContact{
+    color: rgb(61, 219, 224);
+}
+
+.btnDiv{
+    display: flex;
+    
+}
+
+.imgCardDiv{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 3px solid rgb(21, 20, 21);
+    padding: 2px;
+    margin: 10px;
+}
+
+.imgDiv{
+    display: flex;
+}
