@@ -35,4 +35,3 @@ Creating our React Project
     - Components plays a huge role in react.
 
 - Syntax of Components
-    - basically 
